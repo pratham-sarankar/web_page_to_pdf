@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDE configuration files
+.idea/
+*.iml
+.vscode/
+
+# Test files
+coverage/
+
+# Build outputs
+dist/
+build/
+
+# Other files to ignore
+.env  # Don't commit your environment variables
+*.sqlite
+*.db
